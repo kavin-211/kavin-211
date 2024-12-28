@@ -18,7 +18,7 @@
 - ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - ![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Git](https
+[- ![Git](https](https://skillicons.dev/icons?i=all)
 
 
 
