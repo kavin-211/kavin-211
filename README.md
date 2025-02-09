@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
-  <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Hi there 👋 It's me Kavin</h2>
+  <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Hi there 👋 This is Kavin</h2>
     <a id="user-content-hi-there--its-me-hareesh" class="anchor" aria-label="Permalink: Hi there 👋 It's me Hareesh" href="#hi-there--its-me-hareesh">
       <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
         <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
@@ -13,10 +11,10 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cdd56b556149c7fd4939be631072a4df05be1346f52592296737a390d8159c85/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966"><img align="right" width="370" height="290" src="https://camo.githubusercontent.com/cdd56b556149c7fd4939be631072a4df05be1346f52592296737a390d8159c85/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966" data-animated-image="" data-canonical-src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" style="max-width: 100%;"></a></p>
 <ul dir="auto">
 <li>🔭 Here's my <a href="https://hareesh.web.app/" rel="nofollow">portfolio</a></li>
-<li>🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow</li>
-<li>Engineeing at <a href="https://www.highbrowtechnology.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/64d4d30933d1e878a490ac7091552b56cf7d222f2789eee2cb58ad14c22efc28/68747470733a2f2f7777772e6869676862726f77746563686e6f6c6f67792e636f6d2f5f6e6578742f696d6167653f75726c3d68747470732533412532462532466869676862726f772d7265736f75726365732e73332e616d617a6f6e6177732e636f6d2532464869676862726f7725324257656273697465253242436f6e74656e742532464869676862726f775f4c696768742e706e6726773d32353626713d3735" height="24" data-canonical-src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&amp;w=256&amp;q=75" style="max-width: 100%;"></a>,</li>
+<li>🌱 I’m currently learning DSA and RDBMS to my workflow</li>
+
 <li>Trying to work in  
-  <!--<a href="https://www.zoho.com/" rel="nofollow">-->
+  <a href="https://www.zoho.com/" rel="nofollow">
   <img src="https://camo.githubusercontent.com/22208fe16f0ba1ba5e2f581db7355da182a1114a81c236c53d846d971e320394/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61632f5a4f484f5f4e65772e706e67" height="24" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" style="max-width: 100%;"></a> 
   <a href="https://catalyst.zoho.com/" rel="nofollow"><img height="24" width="24" src="https://camo.githubusercontent.com/b669bd8c299a625c9b3ae9e502566cc2654b2a3faa732b41ca374b07dbaef759/68747470733a2f2f7374617469632e7a6f686f63646e2e636f6d2f636174616c7973742d63646e2f696d672f77656c636f6d656c6f616465722d623661343035376463372e676966" data-animated-image="" data-canonical-src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif" style="max-width: 100%;"></a></li>
 <li>⚡ Fun fact: I'm a stage artist.</li>
