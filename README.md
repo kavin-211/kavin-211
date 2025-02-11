@@ -39,6 +39,8 @@
 
 ![kavin-211's Stats](https://github-readme-stats.vercel.app/api?username=kavin-211&theme=react&show_icons=true&hide_border=true&count_private=true)
 
+<!--
+
 <p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://camo.githubusercontent.com/8c8de4306009d0665a62d5daa73c6717beec4dfdd2d88db00a6d206e04d69f99/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d686172656573682d722662675f636f6c6f723d30303030303026636f6c6f723d666666666666266c696e653d35316635363526706f696e743d66666666666626617265613d7472756526686964655f626f726465723d74727565" alt="Kavin's github activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=kavin-211&amp;bg_color=000000&amp;color=ffffff&amp;line=51f565&amp;point=ffffff&amp;area=true&amp;hide_border=true" style="max-width: 100%;"></a></p>
 
 <p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -48,6 +50,7 @@
 
 
 </a></p>
+-->
 
 </article>
 
