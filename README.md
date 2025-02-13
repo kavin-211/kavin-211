@@ -28,7 +28,7 @@
 <a href="https://stackoverflow.com/users/29632092/kavin" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" style="max-width: 100%;"></a>  
 <a href="https://www.youtube.com/" rel="nofollow"><img align="center" src="src/images/icons/Social/youtube.svg" alt="supun-nanayakkara" height="30" width="40" style="max-width: 100%;"></a> 
 
-<a href="https://leetcode.com/u/kavin-211/" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/geeks-for-geeks.svg" alt="supun-nanayakkara" height="30" width="40" style="max-width: 100%;"></a> 
+<a href="https://leetcode.com/u/kavin-211/" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="supun-nanayakkara" height="30" width="40" style="max-width: 100%;"></a> 
 
 
 </li>
