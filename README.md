@@ -14,6 +14,10 @@
 <ul dir="auto">
 <li>Specialized in MERN stack</li>
 <!--<li>🔭 Here's my <a href="https://hareesh.web.app/" rel="nofollow">portfolio</a></li>-->
+
+
+
+<!--uncomment
 <li>🌱 I’m currently learning DSA and RDBMS to my workflow</li>
 
 <li>Trying to work in  
