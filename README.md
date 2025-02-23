@@ -15,7 +15,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cdd56b556149c7fd4939be631072a4df05be1346f52592296737a390d8159c85/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966"><img align="right" width="370" height="290" src="https://camo.githubusercontent.com/cdd56b556149c7fd4939be631072a4df05be1346f52592296737a390d8159c85/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966" data-animated-image="" data-canonical-src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" style="max-width: 100%;"></a></p>
 <ul dir="auto">
 <li>Specialized in MERN stack</li>
-<!--<li>🔭 Here's my <a href="https://hareesh.web.app/" rel="nofollow">portfolio</a></li>
+<!--<li>🔭 Here's my <a href="https://hareesh.web.app/" rel="nofollow">portfolio</a></li> -->
 
 
 
