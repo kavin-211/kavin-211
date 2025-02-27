@@ -1,7 +1,7 @@
 <h2>Hi there 👋 This is Kavin</h2>
 
 
-<!-- uncomment
+
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
    <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Hi there 👋 This is Kavin</h2> 
     <a id="user-content-hi-there--its-me-hareesh" class="anchor" aria-label="Permalink: Hi there 👋 It's me Hareesh" href="#hi-there--its-me-hareesh">
@@ -19,7 +19,7 @@
 
 
 
-<!-- uncomment
+
 <li>🌱 I’m currently learning DSA and RDBMS to my workflow</li>
 
 <li>Trying to work in  
@@ -30,7 +30,7 @@
 <li>Social Presence
 <br>
 
-  <!--uncomment
+  
   <a href="https://www.linkedin.com/in/kavin-prasath-342732333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin logo" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://x.com/kavinprasa57983" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter logo" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://fb.com/kmahalakshmi2004" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook logo" height="30" width="40" style="max-width: 100%;"></a>
@@ -103,7 +103,7 @@
 
 
 
-<!--uncomment
+
 
 
 ![kavin-211's Stats](https://github-readme-stats.vercel.app/api?username=kavin-211&theme=react&show_icons=true&hide_border=true&count_private=true)
