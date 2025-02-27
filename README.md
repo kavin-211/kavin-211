@@ -22,7 +22,7 @@
 
 <li>🌱 I’m currently learning DSA and RDBMS to my workflow</li>
 
-<li>Trying to work in  
+<li>The only ambition is   
   <a href="https://www.zoho.com/" rel="nofollow">
   <img src="https://camo.githubusercontent.com/22208fe16f0ba1ba5e2f581db7355da182a1114a81c236c53d846d971e320394/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61632f5a4f484f5f4e65772e706e67" height="24" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" style="max-width: 100%;"></a> 
   <a href="https://catalyst.zoho.com/" rel="nofollow"><img height="24" width="24" src="https://camo.githubusercontent.com/b669bd8c299a625c9b3ae9e502566cc2654b2a3faa732b41ca374b07dbaef759/68747470733a2f2f7374617469632e7a6f686f63646e2e636f6d2f636174616c7973742d63646e2f696d672f77656c636f6d656c6f616465722d623661343035376463372e676966" data-animated-image="" data-canonical-src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif" style="max-width: 100%;"></a></li>
