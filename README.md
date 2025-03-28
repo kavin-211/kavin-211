@@ -18,7 +18,7 @@
 <!--<li>🔭 Here's my <a href="https://hareesh.web.app/" rel="nofollow">portfolio</a></li> -->
 
 
-<!--uncomment
+
 
 <li>🌱 I’m currently learning DSA and RDBMS to my workflow</li>
 
