@@ -1,7 +1,7 @@
 <h2>Hi there 👋 This is Kavin</h2>
 
 
-<!-- uncomment
+
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
    <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Hi there 👋 This is Kavin</h2> 
     <a id="user-content-hi-there--its-me-hareesh" class="anchor" aria-label="Permalink: Hi there 👋 It's me Hareesh" href="#hi-there--its-me-hareesh">
@@ -18,7 +18,7 @@
 <!--<li>🔭 Here's my <a href="https://hareesh.web.app/" rel="nofollow">portfolio</a></li> -->
 
 
-<!--
+
 
 <li>🌱 I’m currently learning DSA and RDBMS to my workflow</li>
 
